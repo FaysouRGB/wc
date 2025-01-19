@@ -7,7 +7,7 @@ This tool reads text from files or standard input and displays counts for:
 
 It also support multiple files and will display each one on its line as well as a total for each category.
 
-Note: if any flags are provided, all flags will be set.
+Note: if no flags are provided, they will be all set.
 
 ## Usage
 
